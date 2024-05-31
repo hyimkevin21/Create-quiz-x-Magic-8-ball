@@ -1,0 +1,28 @@
+html {
+  background: url("img/space.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+
+body {
+  background: rgba(255, 255, 255, 0.8);
+  width: 600px;
+  padding: 30px 100px;
+  margin: 25px auto;
+  text-align: left;
+  border-radius: 25px;
+}
+
+input {
+  width: 599px;
+  height: 30px;
+}
+
+button {
+  width: 0px;
+  height: 0px;
+  padding: 0px;
+}
+
+span {
+  color: #11a600;
+}

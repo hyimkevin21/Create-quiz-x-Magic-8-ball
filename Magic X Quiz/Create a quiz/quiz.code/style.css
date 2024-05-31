@@ -1,0 +1,13 @@
+body {
+  background: rgba(151, 151, 151, 0.948);
+  width: 600px;
+  padding: 30px 100px;
+  margin: 25px auto;
+  text-align: left;
+  border-radius: 25px;
+}
+
+html {
+  background: url("img/gettyimages.jpg") no-repeat fixed center;
+  background-size: cover;
+}
